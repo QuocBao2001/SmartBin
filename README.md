@@ -32,5 +32,5 @@ C:\Users\Admin\Documents\Arduino\libraries
 - Step 2: upload `BinESP32.ino` to `ESP32`.
 - Step 3: upload `BinArduino.ino` to `Arduino` (remember to leave TX, RX blank when upload).
 - Step 4: wiring component as our circuit diagram.
-- Step 5: If you still connect `Arduino` to your computer, you will see `IP` of `ESP32` be printed to Serial (`15200 baud`).
+- Step 5: If you still connect `Arduino` to your computer, you will see `IP` of `ESP32` be printed to Serial (`115200 baud`).
 - Step 6: access `ESP32` via `web browser` our use `Bynk app` on mobile phone to see rubbish percent or remote open bin.
